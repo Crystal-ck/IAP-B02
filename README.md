@@ -1,10 +1,10 @@
 Group Project: SHOPKEEPER INVENTORY
 
 Group Members:
-Crystal Kimalel
-Paulette Mbaika
-Einstein Ogamba
-Lucy Gichu
+Crystal Kimalel,
+Paulette Mbaika,
+Einstein Ogamba,
+Lucy Gichu,
 Nathan Makau
 
 Project Description:
